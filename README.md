@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @else-Fukuzaki
 - 👀 I’m interested in App production。
-- 🌱 I’m currently learning Fulutter.
+- 🌱 I’m currently learning Fulutter & App.
 
 <!---
 else-Fukuzaki/else-Fukuzaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
